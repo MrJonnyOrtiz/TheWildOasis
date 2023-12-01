@@ -37,8 +37,9 @@ React.js for a dynamic and responsive user interface with styled components, Rea
 
 Backend:
 Supabase PostgreSQL database.
+Docker.
 
-Host: AWS Elastic Beanstalk.
+Host: AWS Elastic Beanstalk. The app is Dockerized then deployed to Elastic Beanstalk via the AWS EB CLI.
 
 ## License
 
