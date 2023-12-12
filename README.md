@@ -29,7 +29,7 @@ View a comprehensive overview of reservation statistics.
 Responsive Design:
 The application is not yet designed to be accessible and user-friendly on various devices, including desktops, tablets, and smartphones.
 
-## Technologies Used
+## Technologies Used``
 
 Frontend:
 HTML, CSS, JavaScript.
