@@ -28,4 +28,3 @@ dist-ssr
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
-aws-elastic-beanstalk-cli-setup/*
